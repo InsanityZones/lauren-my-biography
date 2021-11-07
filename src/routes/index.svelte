@@ -23,5 +23,7 @@
 </script>
 
 <Header title={"My Biography"}/>
-<Section {...myInfo}{...myHobbies}{...myPersonality}/>
+<Section {...myInfo}/>
+<Section {...myHobbies}/>
+<Section {...myPersonality}/>
 <Footer gitHub={"https://github.com/InsanityZones/lauren-my-biography"}/>

@@ -2,6 +2,6 @@
     export let gitHub
 </script>
 
-<a>
+<a href="{gitHub}">
     {gitHub}
 </a>
